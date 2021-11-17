@@ -2,5 +2,5 @@ homepage: "https://github.com/gtm-templates-AndySN"
 documentation: "https://github.com/gtm-templates-AndySN/connextra/blob/main/README.md"
 versions:
   # Latest version
-  - sha: 2ccbce7b579e9cfef199f37950708fe0efbc7d59
-    changeNotes: Commit v1.0
+  - sha: 4cf856528498f3afac58e5dd750af2bfbf89f245
+    changeNotes: Version 1.0
